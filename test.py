@@ -29,4 +29,4 @@ cols = ['firstName']
 df = data_cleaner(df, cols)
 df.to_json('anondata.json')
 
-print(ge)
+print()
